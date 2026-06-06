@@ -26,6 +26,13 @@ freq, amp = calc_fft(t, signal)
 pip install siglyser
 ```
 
+## Get started
+
+- [Installation](installation.md) — how to install SigLyser
+- [Quickstart](quickstart.md) — three common workflows with code
+- [API Reference](api/reference.md) — full function documentation
+- [Examples](examples.md) — runnable code examples
+
 ## Links
 
 - [Source code](https://github.com/siglyser/siglyser)
